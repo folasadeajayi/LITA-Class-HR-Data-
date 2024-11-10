@@ -15,4 +15,6 @@ The primary source of the Data here is the HR Data.cvs and this was provided by 
 ### Tools Used
 ---
 - power BI for Data Analysis and visualization
+  Here the Data was gotten into the power BI Desktop, transformed, cleaned, analyzed and visualized.
+- GitHub for Portfolio Building
   
