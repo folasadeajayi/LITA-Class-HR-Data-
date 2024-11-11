@@ -27,4 +27,8 @@ EDA involved the exploring of the data to get answers to some questions about th
 - The performance rate by department and individuals
 - The attrition count by age and gender
 
-E
+### Data Cleaning and Preparations
+---
+In the initial phase of the data cleaning and preparations, the following actions were performed:
+
+1. Data loading and inspection
