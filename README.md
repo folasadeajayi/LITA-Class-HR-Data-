@@ -44,4 +44,11 @@ In the initial phase of the data cleaning and preparations, the following action
 
 
 
+
 ![HR Data Tracker](https://github.com/user-attachments/assets/b9b4d332-f096-4968-a8c7-7cd00aad7911)
+
+
+### Insights
+---
+
+
