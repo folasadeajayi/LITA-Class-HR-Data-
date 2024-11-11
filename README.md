@@ -35,3 +35,13 @@ In the initial phase of the data cleaning and preparations, the following action
 2. Handling missing variables
 3. Removing duplicate values
 4. Data cleaning and formatting
+
+### Visualization
+---
+
+
+![HR Data Dashboard](https://github.com/user-attachments/assets/e9a0eb75-8ee7-4d5f-80db-2149159b3da8)
+
+
+
+![HR Data Tracker](https://github.com/user-attachments/assets/b9b4d332-f096-4968-a8c7-7cd00aad7911)
