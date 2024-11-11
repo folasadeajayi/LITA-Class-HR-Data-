@@ -40,13 +40,12 @@ In the initial phase of the data cleaning and preparations, the following action
 ---
 
 
-![HR Data Dashboard](https://github.com/user-attachments/assets/e9a0eb75-8ee7-4d5f-80db-2149159b3da8)
+
+![HR Data Dashboard](https://github.com/user-attachments/assets/8d2a8487-3a34-4422-a479-e85793da61a7)
 
 
 
-
-![HR Data Tracker](https://github.com/user-attachments/assets/b9b4d332-f096-4968-a8c7-7cd00aad7911)
-
+![HR Data vizualization](https://github.com/user-attachments/assets/74ee7b33-7f59-44f7-89e3-cd271a426c65)
 
 ### Insights
 ---
