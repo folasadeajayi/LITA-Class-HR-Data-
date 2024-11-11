@@ -32,3 +32,6 @@ EDA involved the exploring of the data to get answers to some questions about th
 In the initial phase of the data cleaning and preparations, the following actions were performed:
 
 1. Data loading and inspection
+2. Handling missing variables
+3. Removing duplicate values
+4. Data cleaning and formatting
