@@ -18,3 +18,13 @@ The primary source of the Data here is the HR Data.cvs and this was provided by 
   Here the Data was gotten into the power BI Desktop, transformed, cleaned, analyzed and visualized.
 - GitHub for Portfolio Building
   
+### Exploratory Data Analysis
+---
+EDA involved the exploring of the data to get answers to some questions about the data such as:
+- The total number of employee
+- The total number of attrition
+- The attrition rate
+- The performance rate by department and individuals
+- The attrition count by age and gender
+
+E
