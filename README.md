@@ -52,4 +52,12 @@ In the initial phase of the data cleaning and preparations, the following action
 
 - The total number of employeee is 1,470, the number of attrition count is 273 while the number of current employee is 1,233. The attrition rate is 16% while the current employee rate is 84%.
 
-- 
+- Out of the 237 number of attrition, 120 are single, 84 are married while 33 are divorcee.
+
+- Based on the attrition count by department, The Research and Development(R&D) has the highest number of attrition count with 133 followed by the Sales department with attrition of 92 and the HR department with 12 attrition count.
+
+- The age band 25-34 has the highest number of attrition count with (112), followed by the age band 35-44 with (51) attrition count then age band under 25 with (38) attrition count, then 45-54 with (25) attrition count and the lowest attrition count comes from the age band over 55 with attrition count of (11).
+
+- The laboratory technicians job role has the highest number of attrition count with a total of 62.
+
+- The male gender had the highest number of attrition count with a total of (150) while the female gender has the attrition count of 87.
