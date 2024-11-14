@@ -50,4 +50,6 @@ In the initial phase of the data cleaning and preparations, the following action
 ### Insights
 ---
 
+- The total number of employeee is 1,470, the number of attrition count is 273 while the number of current employee is 1,233. The attrition rate is 16% while the current employee rate is 84%.
 
+- 
