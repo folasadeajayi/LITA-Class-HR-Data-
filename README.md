@@ -60,4 +60,11 @@ In the initial phase of the data cleaning and preparations, the following action
 
 - The laboratory technicians job role has the highest number of attrition count with a total of 62.
 
-- The male gender had the highest number of attrition count with a total of (150) while the female gender has the attrition count of 87.
+
+ ### Conclusions
+ ---
+
+- The Research and Development(R&D) has the highest number of attrition which means that they went for training, more research or not well paid.
+
+- The male gender had the highest number of attrition count with a total of (150) while the female gender has the attrition count of 87, this could suggest the male got a better job opportunity elsewhere or they are not comfortable with the working condition of the organization.
+- Most of the attrition employee are single and youths within the age band of 25-34.
